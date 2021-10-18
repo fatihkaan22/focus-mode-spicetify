@@ -8,7 +8,8 @@
 
   const classes =
       [
-        "main-navBar-navBar", 
+        // "main-navBar-navBar", 
+        "Root__nav-bar",
         "main-buddyFeed-buddyFeedRoot",
       ]
 
